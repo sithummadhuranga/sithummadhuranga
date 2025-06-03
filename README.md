@@ -86,7 +86,7 @@ const sithum = {
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **PERFORMANCE METRICS**
 
 <div align="center">
-  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=sithummadhuranga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics"/>
+  <img height="250px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sithummadhuranga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 </div>
 
 <div align="center">
