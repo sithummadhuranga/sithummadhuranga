@@ -2,14 +2,16 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=SITHUM%20MADHURANGA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Architect;AI+Innovation+Engineer;Digital+Experience+Creator" alt="Animated Titles"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" height="320"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" height="320"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Architect;AI+Innovation+Engineer;Digital+Experience+Creator" alt="Animated Titles"/>
 </div>
 
 <br/>
@@ -86,8 +88,7 @@ const sithum = {
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **PERFORMANCE METRICS**
 
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sithummadhuranga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithummadhuranga&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=sithummadhuranga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
