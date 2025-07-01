@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Architect;AI+Innovation+Engineer;Digital+Experience+Creator" alt="Animated Titles"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Developer;AI+%26+Cloud+Engineer;Software+Engineer+%40AizenIT" alt="Animated Titles"/>
 </div>
 
 <br/>
@@ -14,30 +14,47 @@
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **ABOUT THE ARCHITECT**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **ABOUT THE DEVELOPER**
 
 ```typescript
 const sithum = {
-    location: "🇱🇰 Malabe, Sri Lanka",
+    name: "Sithum Madhuranga",
+    location: "🇱🇰 Sri Lanka",
     education: "🎓 BSc Software Engineering @ SLIIT",
-    passion: "🚀 Transforming Ideas into Digital Reality",
-    mission: "🌟 Building Tomorrow's Technology Today",
+    currentRole: "💼 Software Engineer Intern @ AizenIT",
+    website: "🌐 sithum.dev",
+    email: "📧 sithummadhu.uni@gmail.com",
+    hireable: true,
+    
+    passion: "🚀 Building Intelligent Web Applications",
+    mission: "🌟 Creating Scalable Solutions with Modern Tech",
     
     philosophy: {
-        code: "Clean, scalable, and beautiful",
-        design: "User-centric with pixel perfection",
-        innovation: "AI-first approach to problem solving"
+        code: "Clean, efficient, and maintainable",
+        design: "User-first with modern aesthetics",
+        innovation: "AI-enhanced development approach"
     },
     
     currentFocus: [
-        "🤖 AI-Powered Application Development",
-        "⚡ High-Performance System Architecture", 
-        "🎨 Next-Gen User Experiences",
-        "🔬 Emerging Technology Integration"
+        "🤖 AI Integration in Web Applications",
+        "⚡ Full-Stack Development Excellence", 
+        "☁️ Cloud-Native Architecture",
+        "🔧 Modern Framework Mastery"
     ],
     
-    workStyle: "Remote-first | Agile | Innovation-driven",
-    availability: "Open for exciting collaborations 🌍"
+    github_stats: {
+        member_since: "May 21, 2024",
+        public_repos: 3,
+        private_projects: "Multiple enterprise & personal projects",
+        followers: 2,
+        following: 1,
+        public_gists: 0,
+        total_contributions: "252+ contributions",
+        active_development: "Public + Private repositories"
+    },
+    
+    workStyle: "Agile | Collaborative | Results-driven",
+    availability: "Open for internships & projects 🌍"
 };
 ```
 
@@ -45,37 +62,49 @@ const sithum = {
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **TECHNOLOGY MASTERY**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **TECHNOLOGY ARSENAL**
 
 <div align="center">
 
-### 🌐 **Frontend Alchemy**
+### 🌐 **Frontend Mastery**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚡ **Backend Engineering**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🤖 **AI & Intelligence**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### ☁️ **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🗄️ **Database & Storage**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### 📱 **Mobile Innovation**
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+### 🤖 **AI & Machine Learning**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### ☁️ **Cloud & DevOps**
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+### 🛠️ **Development Tools**
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -83,21 +112,32 @@ const sithum = {
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **PERFORMANCE METRICS**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **GITHUB STATISTICS**
 
 <div align="center">
-  <img height="250px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sithummadhuranga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  
+### 📊 **Development Activity**
+![Contributions](https://img.shields.io/badge/Total_Contributions-252+-00D9FF?style=for-the-badge&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/Public_Repos-3-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
+![Private Projects](https://img.shields.io/badge/Private_Projects-Multiple-9C27B0?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/Followers-2-4ECDC4?style=for-the-badge&logo=github&logoColor=white)
+![Following](https://img.shields.io/badge/Following-1-45B7D1?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sithummadhuranga&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=sithummadhuranga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&include_all_commits=true&count_private=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sithummadhuranga&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sithummadhuranga&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **ACHIEVEMENT CONSTELLATION**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **ACHIEVEMENTS & RECOGNITION**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sithummadhuranga&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
@@ -105,35 +145,82 @@ const sithum = {
 
 <div align="center">
 
-### 🎓 **Academic Excellence**
+### 🎓 **Academic Journey**
 ```
 BSc (Hons) Information Technology  │  CGPA: 3.5/4.0  │  SLIIT
 Python Programming Foundations     │  University of Cincinnati
 Professional Web Design Mastery   │  Open University of Sri Lanka
 ```
 
-### 🏆 **Professional Certifications**
+### 💼 **Professional Experience**
 ```
-🤖 AI & Machine Learning     │  🚀 Cloud Architecture     │  🔧 Full-Stack Development
-📊 Data Structures & Algos   │  🐳 Docker Containerization │  🔐 Security Best Practices
+Software Engineer Intern @ AizenIT     │  Angular, .NET, Azure Development
+Full Stack Project Contributions       │  React, Next.js, MERN Stack
+AI Integration & Cloud Solutions        │  Modern Web Application Development
+```
+
+### 📈 **GitHub Portfolio**
+```
+🗓️ Member Since: May 21, 2024        │  🚀 250+ Contributions This Year
+📦 Public Repositories: 3             │  🔒 Multiple Private Projects
+💼 Enterprise & Personal Work         │  👥 Growing Developer Network
+🌟 Consistent Development Activity    │  ⚡ Full-Stack Focus Areas
+```
+
+### 🏆 **Technical Certifications**
+```
+🤖 AI & Machine Learning Integration  │  🚀 Azure Cloud Architecture     │  🔧 Full-Stack MERN Development
+📊 Modern JavaScript Frameworks       │  🐳 Containerization & DevOps    │  🔐 Web Security Best Practices
 ```
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **DIGITAL PRESENCE**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **DEVELOPMENT FOCUS**
+
+<div align="center">
+
+### 🚀 **Current Project Areas**
+```javascript
+const developmentFocus = {
+    public_work: {
+        focus: "Open source contributions & portfolio projects",
+        technologies: "React, Angular, .NET, Node.js"
+    },
+    
+    private_projects: {
+        scope: "Enterprise applications & client work",
+        domains: "AI integration, cloud solutions, full-stack apps",
+        collaboration: "Team projects & professional development"
+    },
+    
+    expertise_areas: [
+        "🅰️ Angular + .NET Core enterprise applications",
+        "⚛️ React & Next.js modern web solutions", 
+        "🤖 AI-powered application development",
+        "☁️ Azure cloud-native architecture",
+        "📱 Responsive & mobile-first design"
+    ],
+    
+    development_approach: "Public portfolio + Private professional work"
+};
+```
+
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **CONNECT & COLLABORATE**
 
 <div align="center">
   <a href="https://sithum.dev">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white&labelColor=000"/>
   </a>
-  <a href="mailto:sithummadhuranga@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-00D9FF?style=for-the-badge&logoColor=white&labelColor=000"/>
+  <a href="mailto:sithummadhu.uni@gmail.com">
+    <img src="https://img.shields.io/badge/📧_University_Email-00D9FF?style=for-the-badge&logoColor=white&labelColor=000"/>
   </a>
   <a href="https://linkedin.com/in/sithummadhuranga">
     <img src="https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logoColor=white&labelColor=000"/>
   </a>
-  <a href="tel:+94713555035">
-    <img src="https://img.shields.io/badge/📱_Call-45B7D1?style=for-the-badge&logoColor=white&labelColor=000"/>
+  <a href="mailto:sithummadhuranga@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Personal_Email-45B7D1?style=for-the-badge&logoColor=white&labelColor=000"/>
   </a>
 </div>
 
@@ -143,26 +230,35 @@ Professional Web Design Mastery   │  Open University of Sri Lanka
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500"/>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **COLLABORATION MANIFESTO**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **COLLABORATION OPPORTUNITIES**
 
 ```javascript
-const collaboration = {
-    seeking: [
-        "🚀 Revolutionary AI projects",
-        "💡 Innovative startup ventures", 
+const openToCollaborate = {
+    github_activity: {
+        member_since: "May 21, 2024",
+        total_contributions: "250+",
+        private_work: "Multiple enterprise & personal projects",
+        development_style: "Balanced public portfolio + professional work"
+    },
+    
+    interests: [
+        "🚀 Full-stack web applications",
+        "🤖 AI-powered software solutions", 
+        "☁️ Cloud-native architecture projects",
         "🌍 Open source contributions",
-        "🎯 High-impact problem solving"
+        "💡 Innovative startup ventures"
     ],
     
-    offering: [
-        "🧠 Cutting-edge technical expertise",
+    expertise: [
+        "🔧 Modern JavaScript frameworks",
         "⚡ Rapid prototyping & development",
-        "🎨 UI/UX design excellence",
-        "🤖 AI integration mastery"
+        "🎨 UI/UX implementation",
+        "🤖 AI integration & automation",
+        "☁️ Cloud deployment & scaling"
     ],
     
-    values: "Innovation • Quality • Impact • Growth",
-    timezone: "GMT+5:30 (Sri Lanka)",
+    values: "Quality • Innovation • Learning • Impact",
+    location: "Sri Lanka (Remote-friendly)",
     response_time: "< 24 hours ⚡"
 };
 ```
@@ -182,5 +278,5 @@ const collaboration = {
 </div>
 
 <div align="center">
-  <h3><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="25"/> Let's Build The Future Together <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="25"/></h3>
+  <h3><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="25"/> Let's Build Amazing Things Together <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="25"/></h3>
 </div>
