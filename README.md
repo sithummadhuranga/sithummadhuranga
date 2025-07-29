@@ -126,21 +126,106 @@ const sithum = {
 </div>
 
 <div align="center">
-  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=sithummadhuranga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&include_all_commits=true&count_private=true"/>
+
+### 🚀 **GitHub Performance Dashboard**
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**📈 Contribution Overview**
+```
+🗓️ GitHub Member Since
+   May 21, 2024
+   
+🚀 Total Contributions
+   252+ commits this year
+   
+⭐ Repository Stats
+   3 Public repos
+   Multiple private projects
+   
+👥 Community
+   2 Followers | 1 Following
+```
+
+</td>
+<td align="center" width="50%">
+
+**💻 Development Focus**
+```
+🔥 Most Used Languages
+   TypeScript, JavaScript
+   C#, Python, Java
+   
+🛠️ Primary Tech Stack
+   React, Angular, .NET
+   Node.js, MongoDB
+   
+☁️ Cloud Platforms
+   Microsoft Azure
+   AWS Services
+```
+
+</td>
+</tr>
+</table>
+
+### 📊 **2024 Coding Activity**
+```
+Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec
+ ░    ░    ░    ░   ███  ███  ███   ░    ░    ░    ░    ░
+ 
+ ░ = Pre-GitHub    ███ = Active Development Period
+ 
+🔥 Peak Activity: May - July 2024 (252+ contributions)
+⚡ Current Status: Active Development
+🎯 Focus Areas: Full-Stack Web Applications, AI Integration
+```
+
+### 🏆 **Achievement Highlights**
+```
+🌟 Consistent Contributor    🚀 Multi-Language Developer    💡 AI Integration Expert
+📊 Clean Code Advocate      ☁️ Cloud-Native Architect     🔧 Modern Framework User
+```
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sithummadhuranga&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sithummadhuranga&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **ACHIEVEMENTS & RECOGNITION**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sithummadhuranga&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+
+### 🏆 **GitHub Achievements**
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60px">
+<br><b>Quickdraw</b>
+<br><sub>Opened a pull request</sub>
+</td>
+<td align="center">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60px">
+<br><b>YOLO</b>
+<br><sub>Merged a pull request without review</sub>
+</td>
+<td align="center">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60px">
+<br><b>Starstruck</b>
+<br><sub>Created a popular repository</sub>
+</td>
+<td align="center">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60px">
+<br><b>Pull Shark</b>
+<br><sub>Merged pull requests</sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 <div align="center">
@@ -221,6 +306,14 @@ const developmentFocus = {
   </a>
   <a href="mailto:sithummadhuranga@gmail.com">
     <img src="https://img.shields.io/badge/📧_Personal_Email-45B7D1?style=for-the-badge&logoColor=white&labelColor=000"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/sithummadhuranga">
+    <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00"/>
   </a>
 </div>
 
