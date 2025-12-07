@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Developer;AI+%26+Cloud+Engineer;Software+Engineer+%40AizenIT" alt="Animated Titles"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Developer;AI+%26+Cloud+Engineer;Software+Engineer" alt="Animated Titles"/>
 </div>
 
 <br/>
@@ -21,7 +21,7 @@ const sithum = {
     name: "Sithum Madhuranga",
     location: "🇱🇰 Sri Lanka",
     education: "🎓 BSc Software Engineering @ SLIIT",
-    currentRole: "💼 Software Engineer Intern @ AizenIT",
+    currentRole: "💼 Software Engineer",
     website: "🌐 sithum.dev",
     email: "📧 sithummadhu.uni@gmail.com",
     hireable: true,
